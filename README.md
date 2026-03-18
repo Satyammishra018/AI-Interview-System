@@ -1,5 +1,4 @@
-
-  AI Interview Evaluation System
+ AI Interview Evaluation System
 
 Overview
 
