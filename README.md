@@ -1,4 +1,33 @@
-AI Interview Evaluation System
+AI-Interview-System
+│
+├── frontend/                # React (Vite) app
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/                # Node.js server
+│   ├── index.js
+│   ├── db.js
+│   ├── auth.js
+│   └── package.json
+│
+├── llm-module/             # FastAPI (LLM)
+│   ├── app/
+│   ├── requirements.txt
+│   └── main.py
+│
+├── ai-proctor/             # System_Integration (optional)
+│   ├── integrated_proctor.py
+│   └── requirements.txt
+│
+├── database/
+│   └── interview_db.sql
+│
+├── README.md
+├── .gitignore
+
+
+  AI Interview Evaluation System
 
 Overview
 
